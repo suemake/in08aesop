@@ -1,0 +1,40 @@
+.inner {
+    margin: 0 160px;
+
+
+}
+
+
+.default {
+    padding-bottom: 80px;
+
+}
+
+.default .title {
+    /* max-width: 1410px;
+    margin: 0 auto; */
+    margin-bottom: 40px;
+}
+
+.default .title h2 {
+    font-size: 32px;
+    font-weight: 600;
+    font-family: "Noto Serif KR", serif;
+}
+
+.default .title p {
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 16px;
+
+}
+
+
+.flx {
+    display: flex;
+    gap: 30px;
+}
+
+.flx>* {
+    flex: 1;
+}
